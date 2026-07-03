@@ -1,6 +1,6 @@
 # NYC FHV Power BI Dashboard
 
-A Power BI dashboard built to analyze New York City For-Hire Vehicle (FHV) trip activity from January to March 2026. The dashboard provides an interactive view of trip demand, peak hours, airport activity, and operational performance.
+A Power BI dashboard built to analyze New York City For-Hire Vehicle (FHV) trip activity from January through March 2026. The dashboard helps users monitor trip demand, operational trends, and key performance metrics through interactive visualizations.
 
 ---
 
@@ -13,7 +13,7 @@ A Power BI dashboard built to analyze New York City For-Hire Vehicle (FHV) trip 
 | Dashboard Type | Operational Dashboard |
 | Audience | Business Stakeholders |
 | Tools | Power BI, Power Query, DAX, Excel |
-| Skills | Data Modeling, Data Visualization, KPI Design, Business Analysis |
+| Skills | Data Modeling, Data Visualization, KPI Development, Business Analysis |
 
 ---
 
@@ -35,23 +35,23 @@ A Power BI dashboard built to analyze New York City For-Hire Vehicle (FHV) trip 
 
 # Business Problem
 
-Business teams need a simple way to monitor trip activity, identify demand patterns, and compare operational performance across different locations and time periods.
+Business users need an efficient way to monitor trip demand, identify operating trends, and compare performance across different locations and time periods.
 
-Instead of reviewing multiple reports, this dashboard brings key metrics together in one interactive view.
+Instead of reviewing multiple reports, this dashboard provides a single interactive view of the most important business metrics.
 
 ---
 
 # Project Overview
 
-This dashboard analyzes NYC For-Hire Vehicle (FHV) trip data between January and March 2026.
+This dashboard analyzes NYC FHV trip data from January through March 2026.
 
 Users can:
 
-- Monitor trip volume over time
+- Monitor overall trip volume
+- Analyze monthly trends
 - Identify peak operating hours
-- Compare operational performance
-- Explore trip activity by location
-- Filter results using interactive slicers
+- Compare trip activity by location
+- Explore data using interactive filters
 
 ---
 
@@ -60,18 +60,19 @@ Users can:
 - Executive KPI dashboard
 - Monthly trend analysis
 - Peak hour analysis
-- Interactive filtering
+- Interactive slicers
 - Location-based analysis
-- DAX measures for business metrics
+- Custom DAX measures
 
 ---
 
 # Data Preparation
 
-- Combined monthly trip data (January–March 2026)
+- Combined monthly datasets from January through March 2026
 - Cleaned and transformed data using Power Query
 - Built relationships between datasets
 - Created calculated measures using DAX
+- Designed an interactive Power BI data model
 
 ---
 
@@ -89,11 +90,12 @@ Users can:
 Primary Dataset
 
 - NYC TLC For-Hire Vehicle (FHV) Trip Records
-- Analysis Period: January 2026 – March 2026
+- Analysis Period: January–March 2026
 
 Supporting Data
 
 - NYC Taxi Zone Lookup Table
+- NYC Taxi Zone Shapefile
 
 ---
 
@@ -102,22 +104,22 @@ Supporting Data
 - Data Cleaning
 - Data Transformation
 - Data Modeling
-- DAX
-- KPI Development
-- Dashboard Design
+- DAX Development
+- KPI Dashboard Design
 - Business Analysis
+- Data Visualization
 
 ---
 
 # Business Value
 
-This dashboard provides a single view of operational performance, making it easier to monitor demand, compare trends, and review key business metrics.
+This dashboard provides a centralized view of operational performance, making it easier to monitor trip activity, identify trends, and review key performance metrics.
 
 ---
 
 # Future Improvements
 
-- Add additional months of trip data
-- Include year-over-year comparisons
-- Add forecast metrics
+- Expand the analysis with additional months of data
+- Add year-over-year comparisons
 - Publish to Power BI Service
+- Implement scheduled data refresh
