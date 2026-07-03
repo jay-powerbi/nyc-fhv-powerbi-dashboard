@@ -1,6 +1,6 @@
 # NYC FHV Power BI Dashboard
 
-Interactive Power BI dashboard that transforms NYC For-Hire Vehicle (FHV) trip data into actionable business insights for operational decision-making.
+A Power BI dashboard built to analyze New York City For-Hire Vehicle (FHV) trip activity from January to March 2026. The dashboard provides an interactive view of trip demand, peak hours, airport activity, and operational performance.
 
 ---
 
@@ -10,10 +10,10 @@ Interactive Power BI dashboard that transforms NYC For-Hire Vehicle (FHV) trip d
 |------|---------|
 | Industry | Transportation |
 | Role | Power BI Developer |
-| Dashboard Type | Executive Dashboard |
+| Dashboard Type | Operational Dashboard |
 | Audience | Business Stakeholders |
 | Tools | Power BI, Power Query, DAX, Excel |
-| Skills | Data Modeling, KPI Design, Data Visualization, Business Intelligence |
+| Skills | Data Modeling, Data Visualization, KPI Design, Business Analysis |
 
 ---
 
@@ -23,44 +23,55 @@ Interactive Power BI dashboard that transforms NYC For-Hire Vehicle (FHV) trip d
 
 ![Overview](01-overview.jpg)
 
-## Demand Trend Analysis
+## Trip Trend Analysis
 
-![Trend Analysis](02-trend-analysis.jpg)
+![Trip Trends](02-trend-analysis.jpg)
 
-## Driver Performance Analysis
+## Driver & Operational Analysis
 
-![Driver Performance](03-driver-pay-analysis.jpg)
+![Operations](03-driver-pay-analysis.jpg)
 
 ---
 
 # Business Problem
 
-Fleet operators and business stakeholders need better visibility into trip demand, driver performance, airport activity, and operational trends to make informed business decisions.
+Business teams need a simple way to monitor trip activity, identify demand patterns, and compare operational performance across different locations and time periods.
 
-Without a centralized dashboard, decision-makers spend significant time gathering information from multiple reports and often lack timely operational insights.
+Instead of reviewing multiple reports, this dashboard brings key metrics together in one interactive view.
 
 ---
 
 # Project Overview
 
-This interactive Power BI dashboard analyzes New York City For-Hire Vehicle (FHV) trip data and provides a centralized view of operational performance.
+This dashboard analyzes NYC For-Hire Vehicle (FHV) trip data between January and March 2026.
 
-The dashboard enables stakeholders to:
+Users can:
 
-- Monitor trip volume and demand trends
-- Analyze peak operating hours
-- Evaluate driver performance
-- Compare operational performance across different dimensions
-- Support data-driven business decisions
+- Monitor trip volume over time
+- Identify peak operating hours
+- Compare operational performance
+- Explore trip activity by location
+- Filter results using interactive slicers
 
 ---
 
-# Key Business Insights
+# Key Features
 
-- Identified peak demand periods to improve resource planning.
-- Compared operational performance across multiple business dimensions.
-- Highlighted trends that support executive decision-making.
-- Improved visibility into overall transportation operations.
+- Executive KPI dashboard
+- Monthly trend analysis
+- Peak hour analysis
+- Interactive filtering
+- Location-based analysis
+- DAX measures for business metrics
+
+---
+
+# Data Preparation
+
+- Combined monthly trip data (January–March 2026)
+- Cleaned and transformed data using Power Query
+- Built relationships between datasets
+- Created calculated measures using DAX
 
 ---
 
@@ -75,9 +86,14 @@ The dashboard enables stakeholders to:
 
 # Data Source
 
+Primary Dataset
+
 - NYC TLC For-Hire Vehicle (FHV) Trip Records
+- Analysis Period: January 2026 – March 2026
+
+Supporting Data
+
 - NYC Taxi Zone Lookup Table
-- NYC Taxi Zone Shapefile
 
 ---
 
@@ -86,24 +102,22 @@ The dashboard enables stakeholders to:
 - Data Cleaning
 - Data Transformation
 - Data Modeling
-- DAX Development
-- KPI Dashboard Design
-- Business Intelligence
-- Data Visualization
-- Executive Reporting
+- DAX
+- KPI Development
+- Dashboard Design
+- Business Analysis
 
 ---
 
 # Business Value
 
-This dashboard enables stakeholders to quickly monitor operational performance, identify demand trends, and support strategic decision-making through interactive data visualization.
+This dashboard provides a single view of operational performance, making it easier to monitor demand, compare trends, and review key business metrics.
 
 ---
 
 # Future Improvements
 
-- Real-time data refresh
-- Predictive demand forecasting
-- AI-powered insights
-- Mobile executive dashboard
-- Automated reporting
+- Add additional months of trip data
+- Include year-over-year comparisons
+- Add forecast metrics
+- Publish to Power BI Service
