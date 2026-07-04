@@ -16,7 +16,7 @@ The dashboard provides an executive-level view of transportation trends to suppo
 | Dashboard Type | Operational Dashboard |
 | Audience | Business Stakeholders |
 | Tools | Power BI, Power Query, DAX, Excel |
-| Data Source | NYC TLC Open Data(Jan-Mar 2026) |
+| Data Source | NYC TLC Open Data (Jan-Mar 2026) |
 | Skills | Data Modeling, KPI Design, Executive Reporting, Data Visualization,  Business Analysis |
 
 ---
