@@ -21,15 +21,25 @@ A Power BI dashboard built to analyze New York City For-Hire Vehicle (FHV) trip 
 
 ## Executive Overview
 
-![Overview](01-overview.jpg)
+![Executive Overview](01-overview.jpg)
+
+- Provides an executive overview of NYC FHV operations, including total trips, trip distance, trip duration, peak-hour activity, airport demand, and overall operational performance.
+
+---
 
 ## Trip Trend Analysis
 
-![Trip Trends](02-trend-analysis.jpg)
+![Trip Trend Analysis](02-trend-analysis.jpg)
+
+- Analyzes trip demand over time, comparing monthly trends, weekday versus weekend activity, airport trips, and peak operating periods to identify demand patterns.
+
+---
 
 ## Driver & Operational Analysis
 
-![Operations](03-driver-pay-analysis.jpg)
+![Driver & Operational Analysis](03-driver-pay-analysis.jpg)
+
+- Evaluates operational performance across pickup and drop-off locations, helping stakeholders monitor trip distribution, identify high-demand areas, and support fleet planning and resource allocation.
 
 ---
 
