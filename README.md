@@ -106,8 +106,7 @@ Users can:
 
 Primary Dataset
 
-- NYC TLC For-Hire Vehicle (FHV) Trip Records
-- Analysis Period: January–March 2026
+- NYC TLC For-Hire Vehicle (FHV) Trip Records (January–March 2026)
 
 Supporting Data
 
