@@ -6,6 +6,9 @@ A Power BI dashboard built to analyze New York City For-Hire Vehicle (FHV) trip 
 
 # Project Summary
 
+This dashboard helps business stakeholders monitor New York City For-Hire Vehicle (FHV) operations by analyzing trip demand, driver activity, airport traffic, and operational performance across multiple time periods.
+
+The dashboard provides an executive-level view of transportation trends to support operational planning, resource allocation, and data-driven decision making for urban mobility services.
 | Item | Details |
 |------|---------|
 | Industry | Transportation |
