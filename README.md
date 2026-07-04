@@ -14,7 +14,7 @@ The dashboard provides an executive-level view of transportation trends to suppo
 | Industry | Transportation |
 | Role | Power BI Developer |
 | Dashboard Type | Operational Dashboard |
-| Audience | Business Stakeholders |
+| Audience | Business Stakeholders, FHV (Uber/Lyft) Driver |
 | Tools | Power BI, Power Query, DAX, Excel |
 | Data Source | NYC TLC Open Data (Jan-Mar 2026) |
 | Skills | Data Modeling, KPI Design, Executive Reporting, Data Visualization,  Business Analysis |
