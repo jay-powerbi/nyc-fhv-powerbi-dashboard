@@ -112,7 +112,6 @@ Primary Dataset
 Supporting Data
 
 - NYC Taxi Zone Lookup Table
-- NYC Taxi Zone Shapefile
 
 ---
 
