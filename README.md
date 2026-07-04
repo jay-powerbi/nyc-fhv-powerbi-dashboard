@@ -27,6 +27,7 @@ A Power BI dashboard built to analyze New York City For-Hire Vehicle (FHV) trip 
 
 ---
 
+
 ## Trip Trend Analysis
 
 ![Trip Trend Analysis](02-trend-analysis.jpg)
@@ -35,6 +36,7 @@ A Power BI dashboard built to analyze New York City For-Hire Vehicle (FHV) trip 
 
 ---
 
+
 ## Driver & Operational Analysis
 
 ![Driver & Operational Analysis](03-driver-pay-analysis.jpg)
@@ -42,6 +44,7 @@ A Power BI dashboard built to analyze New York City For-Hire Vehicle (FHV) trip 
 - Evaluates operational performance across pickup and drop-off locations, helping stakeholders monitor trip distribution, identify high-demand areas, and support fleet planning and resource allocation.
 
 ---
+
 
 # Business Problem
 
